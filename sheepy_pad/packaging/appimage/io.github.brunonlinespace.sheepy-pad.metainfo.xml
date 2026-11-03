@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>io.github.brunonlinespace.sheepy-pad</id>
+  <name>Sheepy Pad</name>
+  <summary>Lightweight editor and launcher for runnable Python and shell scripts</summary>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0-or-later</project_license>
+  <developer id="io.github.brunonlinespace">
+    <name>Bruno Machado</name>
+  </developer>
+  <url type="homepage">https://github.com/brunonlinespace/sheepy-pad</url>
+  <url type="bugtracker">https://github.com/brunonlinespace/sheepy-pad/issues</url>
+  <description>
+    <p>Sheepy Pad is a lightweight standalone editor for runnable Python, sh, Bash, Zsh and Fish source files.</p>
+    <p>Version 0.3.0 adds a file-type-aware snippet Library with persistent favourites/custom snippets, a Timblee/JSTS-style no-document start screen and default document type, an independent Dark Editor preference, and harmonised drag/drop and executable controls while retaining the six runnable extensions and runtime tooling.</p>
+  </description>
+  <launchable type="desktop-id">sheepy-pad.desktop</launchable>
+  <provides>
+    <binary>sheepy-pad</binary>
+    <mediatype>text/x-python</mediatype>
+    <mediatype>application/x-shellscript</mediatype>
+  </provides>
+  <releases>
+    <release version="0.4.2" date="2026-11-03">
+      <description><p>Public README publication and AppImage packaging-contract alignment; no editor or runtime behaviour changes.</p></description>
+    </release>
+    <release version="0.4.1" date="2026-10-18">
+      <description><p>Editor scrolling and gutter corrective: reduced end-of-file overscroll and kept the line-number gutter above the horizontal scrollbar.</p></description>
+    </release>
+    <release version="0.4.0" date="2026-09-23">
+      <description><p>Portable/AppImage packaging alignment release with Suite Pythoine component metadata and Pad-family slogan correction.</p></description>
+    </release>
+    <release version="0.3.0" date="2026-08-22">
+      <description><p>Snippet-only script Library with favourites, explicit no-document/default-type workflow, independent dark/light editor palette and Pad-family menu harmonisation.</p></description>
+    </release>
+    <release version="0.2.0" date="2026-08-09">
+      <description><p>Theme-validation release aligning AppDir and final-AppImage dark, light and system checks with the latest Portapad builder while retaining Sheepy Pad real-GUI smoke testing.</p></description>
+    </release>
+    <release version="0.1.0" date="2026-08-08">
+      <description><p>Expanded runnable-script release with Python, sh, Bash, Zsh and Fish runtime tooling.</p></description>
+    </release>
+  </releases>
+  <content_rating type="oars-1.1" />
+</component>

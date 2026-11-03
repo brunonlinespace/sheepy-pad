@@ -1,0 +1,25 @@
+{
+  "id": "sheepy-pad",
+  "name": "Sheepy Pad",
+  "description": "A lightweight Python and shell-script editor.",
+  "component_kind": "editor",
+  "extensions": [
+    ".py",
+    ".sh"
+  ],
+  "portable_command": [
+    "main.py"
+  ],
+  "icon": "sheepy_pad/assets/icons/sheepy-pad.png",
+  "version": "0.4.2",
+  "publisher": "brunonlinespace",
+  "repository": "https://github.com/brunonlinespace/sheepy-pad",
+  "desktop_id": "io.github.brunonlinespace.sheepy-pad",
+  "tagline": "Friendly. Fast. Focused.",
+  "publisher_id": "brunonlinespace",
+  "capabilities": {
+    "routing": true,
+    "open": true,
+    "create": true
+  }
+}

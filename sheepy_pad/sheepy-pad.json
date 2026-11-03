@@ -1,0 +1,9 @@
+{
+  "name": "Sheepy Pad",
+  "id": "sheepy-pad",
+  "version": "0.4.2",
+  "publisher_id": "brunonlinespace",
+  "desktop_id": "io.github.brunonlinespace.sheepy-pad",
+  "repository": "https://github.com/brunonlinespace/sheepy-pad",
+  "tagline": "Friendly. Fast. Focused."
+}

@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Sheepy Pad
+GenericName=Runnable Script Editor
+Comment=Lightweight editor and launcher for Python, shell and Fish scripts
+Exec=sheepy-pad %F
+Icon=sheepy-pad
+Terminal=false
+MimeType=text/x-python;application/x-shellscript;
+Categories=Development;
+Keywords=Python;Shell;Bash;Zsh;Fish;Editor;Source;Script;
+StartupNotify=true
+StartupWMClass=sheepy-pad
+X-AppImage-Version=0.4.2
