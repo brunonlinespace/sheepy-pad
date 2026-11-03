@@ -24,7 +24,7 @@ Sheepy Pad is designed for people who want to create, edit, check, and run indiv
 
 The supported document types are **Python (`.py`)**, **Python Windowed (`.pyw`)**, **Shell (`.sh`)**, **Bash (`.bash`)**, **Zsh (`.zsh`)**, and **Fish (`.fish`)**. Sheepy Pad deliberately does not become a general-purpose text editor, an integrated development environment, or a multi-file workspace manager.
 
-![Image](https://github.com/brunonlinespace/brunonlinespace/blob/a768c08b91922c7b8a5d0a190161a4e94dd42e04/suite-pythoine/screenshots-sheepy-pad/screenshot-sheepy-launcher.png)
+![Launcher](https://github.com/brunonlinespace/brunonlinespace/blob/a768c08b91922c7b8a5d0a190161a4e94dd42e04/suite-pythoine/screenshots-sheepy-pad/screenshot-sheepy-launcher.png)
 
 ## Highlights
 
